@@ -1,0 +1,17 @@
+body {
+    background: #f7f3ee;
+    font-family: 'Segoe UI', Arial, sans-serif;
+}
+.navbar-brand { letter-spacing: 0.3px; }
+.card { border: none; box-shadow: 0 2px 10px rgba(0,0,0,0.06); border-radius: 12px; }
+.card-header { background: #6b4226; color: #fff; border-radius: 12px 12px 0 0 !important; font-weight: 600; }
+.table thead { background: #f0e6da; }
+.btn-brown { background: #6b4226; color:#fff; }
+.btn-brown:hover { background:#54331d; color:#fff; }
+.badge-rank-1 { background:#d4af37 !important; }
+.stat-card { border-radius: 14px; padding: 1.2rem; color:#fff; }
+.stat-card h3 { font-weight:700; margin:0; }
+.bg-coffee1 { background: linear-gradient(135deg,#6b4226,#3b2417); }
+.bg-coffee2 { background: linear-gradient(135deg,#8a5a34,#6b4226); }
+.bg-coffee3 { background: linear-gradient(135deg,#b07d4f,#8a5a34); }
+table.matrix-input input { width: 80px; text-align:center; }
